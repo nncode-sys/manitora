@@ -1,0 +1,4 @@
+/node_modules
+nom-debig.log
+.DS_Store
+/*.env
